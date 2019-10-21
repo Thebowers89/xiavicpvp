@@ -49,7 +49,7 @@ The arena region will be specified by the two extremes of the arena. (<strong>Ma
 <p><strong>Spectators will be secondary</strong></p>
 </li>
 <li>
-<p>If specific blocks are going to be removed. Pay attention to the block palate of the arena.</p>
+<p>If specific blocks are going to be removed. Pay attention to the block palette of the arena.</p>
 </li>
 </ul>
 <h2 id="possible-ideas">Possible ideas</h2>
@@ -59,4 +59,5 @@ The arena region will be specified by the two extremes of the arena. (<strong>Ma
 <h1 id="rant-zone">Rant Zone</h1>
 <h3 id="i-probably-have-to-create-an-entirely-new-pvp-plugin-type-deal.">I probably have to create an entirely new PvP plugin type deal.</h3>
 <h3 id="i-fucking-have-to-learn-how-to-integrate-worldedit.-probably...">I fucking have to learn how to integrate worldedit. Probably…</h3>
+<h3 id="try-getting-list-of-blocks-from-a-tnt-explosion-and-remove-the-blocks-in-the-arena-palette.">Try getting list of blocks from a TNT explosion and remove the blocks in the arena palette.</h3>
 
